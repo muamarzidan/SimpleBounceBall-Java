@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ \u2019Act\u2019\ or\ \u2019Run\u2019\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ gerak()
+comment2.params=
+comment2.target=void\ kanan()
+comment3.params=
+comment3.target=void\ kiri()
+comment4.params=
+comment4.target=void\ atas()
+comment5.params=
+comment5.target=void\ pemain()
+numComments=6
